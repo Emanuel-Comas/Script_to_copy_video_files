@@ -11,7 +11,7 @@ def copiarVideos(origen, destino):
 
 
     if not os.path.exists(destino):
-        print(f'La ruta destino: {destino} no existe.')
+        print(f'La ruta destino: {destino} no existe, se creara la ruta.')
         os.makedirs(destino)
 
 
