@@ -40,7 +40,7 @@ def copiarVideos(origen, destino):
 if __name__ == '__main__':
 
     directorio_origen = input('Ingrese el directorio origen donde estan los archivos a copiar: ')
-    directorio_destino = input('Ingrese el directorio destino, donde se copiaran los archivos.')
+    directorio_destino = input('Ingrese el directorio destino, donde se copiaran los archivos: ')
 
     copiarVideos(directorio_origen, directorio_destino)
 
