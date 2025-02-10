@@ -1,6 +1,7 @@
 ### Importacion de librerias necesarias.
 
 -- os : Para interactuar con el sistema.
+
 -- shutil : Para copiar archivos y directorios.
 
 ![importaciones](image.png)
@@ -46,6 +47,7 @@ Definicion de una tupla de extensiónes de archivos de video comunes.
 
 
 ej: 'video1.mp4' es la parte que va a variar todo el tiempo.
+
 ![alt text](image-7.png)
 
 
@@ -79,6 +81,7 @@ ej: 'video1.mp4' es la parte que va a variar todo el tiempo.
 ### Finalmente.
 
 -- Se ejecuta la funcion del script.
+
 ![ejecucion](image-13.png)
 ![alt text](image-14.png)
 ![alt text](image-15.png)
